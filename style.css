@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.u-class{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.u-class h1{
+    text-transform: uppercase;
+}
+
+.m-class{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+.first-cls{
+    text-align: center;
+    width: 500px;
+    
+}
+
+.first-cls h1{
+    background-color: red;
+}
+
+.secound-cls h1{
+    background-color: green;
+}
+
+.secound-cls{
+    text-align: center;
+    width: 500px;
+    
+}
+.d-one{
+    padding-top: 5%;
+    text-align: left !important;
+}
+.d-two{
+    padding-top: 5%;
+    text-align: left !important;
+}
+
+li{
+    padding: 2%;
+    list-style: none;
+}
